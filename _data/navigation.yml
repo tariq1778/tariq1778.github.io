@@ -19,7 +19,13 @@ main:
     
   - title: "Portfolio"
     url: /portfolio/
-        
+
+  - title: "Photography"
+    url: /photography/
+
+  - title: "Travelling"
+    url: /travelling/
+  
   - title: "Blog Posts"
     url: /year-archive/
     
