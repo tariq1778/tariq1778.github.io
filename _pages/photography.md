@@ -14,5 +14,5 @@ This place has been continuously inhabited by the Taos-speaking people for over 
 
 The man standing in front of the home is its owner, a member of the Pueblo community. This architecture is a traditional pueblo people’s home!*
 
-![The Ravens, 2025](/images/Ravens, Great Smokey.jpg)
+![The Ravens, 2025](/images/Ravens_Great_Smokey.jpg)
 *High above the Great Smoky Mountains, a raven perched in quiet command. The landscape felt less like Tennessee and more like the edge of Westeros.*
