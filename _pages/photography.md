@@ -5,7 +5,8 @@ permalink: /photography/
 author_profile: true
 ---
 
-A collection of my photography.
+I can freeze the moment,
+and hold onto it for a lifetime.
 
 <div style="display:flex; align-items:center; gap:24px; margin-bottom:48px; flex-wrap:wrap;">
   <img src="/images/Taos_Pueblo.jpg" style="width:320px; border-radius:8px;">
