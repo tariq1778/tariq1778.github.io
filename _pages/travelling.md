@@ -43,7 +43,7 @@ Let me take you to the world with you!
 <p class="travel-desc">Write a few sentences about your time in Colorado here.</p>
 <div class="gallery">
   <a href="/images/Colorado_1.jpg"><img src="/images/Colorado_1.jpg" alt="Colorado"></a>
-  <a href="/images/Colorado_2.HEIC"><img src="/images/Colorado_2.HEIC" alt="Colorado"></a>
+  <a href="/images/Colorado_2.jpg"><img src="/images/Colorado_2.jpg" alt="Colorado"></a>
   <a href="/images/Colorado_3.JPG"><img src="/images/Colorado_3.JPG" alt="Colorado"></a>
   <a href="/images/Colorado_4.jpg"><img src="/images/Colorado_4.jpg" alt="Colorado"></a>
   <a href="/images/Colorado_5.JPG"><img src="/images/Colorado_5.JPG" alt="Colorado"></a>
@@ -51,12 +51,15 @@ Let me take you to the world with you!
   <a href="/images/Colorado_7.JPG"><img src="/images/Colorado_7.JPG" alt="Colorado"></a>
   <a href="/images/Colorado_8.jpg"><img src="/images/Colorado_8.jpg" alt="Colorado"></a>
   <a href="/images/Colorado_9.JPG"><img src="/images/Colorado_9.JPG" alt="Colorado"></a>
-  <a href="/images/Colorado_10.HEIC"><img src="/images/Colorado_10.HEIC" alt="Colorado"></a>
+  <a href="/images/Colorado_10.jpg"><img src="/images/Colorado_10.jpg" alt="Colorado"></a>
 </div>
-<div class="travel-video">
-  <iframe src="[https://youtube.com/shorts/x3KTZTflIwg?feature=share)" allowfullscreen>
-  <iframe src="[https://youtube.com/shorts/TbQXRcZdqk4?feature=share)" allowfullscreen>
-  </iframe>
+<div class="shorts-row">
+  <div class="short-video">
+    <iframe src="https://www.youtube.com/embed/x3KTZTflIwg" allowfullscreen></iframe>
+  </div>
+  <div class="short-video">
+    <iframe src="https://www.youtube.com/embed/TbQXRcZdqk4" allowfullscreen></iframe>
+  </div>
 </div>
 </div>
 
