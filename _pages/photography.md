@@ -13,7 +13,7 @@ A collection of my photography.
 </div>
 
 <div style="display:flex; flex-direction:row-reverse; align-items:center; gap:24px; margin-bottom:48px; flex-wrap:wrap;">
-  <img src="/images/Ravens_Great_Smoky.jpg" style="width:320px; border-radius:8px;">
+  <img src="/images/Ravens_Great_Smokey.jpg" style="width:320px; border-radius:8px;">
   <p style="flex:1; min-width:260px;"><em>The Ravens, 2025. High above the Great Smoky Mountains, a raven perched in quiet command. The landscape felt less like Tennessee and more like the edge of Westeros.</em></p>
 </div>
 
