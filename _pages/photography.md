@@ -53,5 +53,5 @@ Still sharing the same afternoon.</em></p>
 
 <div style="display:flex; align-items:center; gap:24px; margin-bottom:48px; flex-wrap:wrap;">
   <img src="/images/MIST_Ulta.jpg" style="width:320px; border-radius:8px;">
-  <p style="flex:1; min-width:260px;"><em>Some memories are clearer in reflection. MIST, Dhaka, Bangladeshm, 2019.</em></p>
+  <p style="flex:1; min-width:260px;"><em>Some memories are clearer in reflection. MIST, Dhaka, Bangladesh, 2019.</em></p>
 </div>
