@@ -53,15 +53,6 @@ Let me take you to the world with you!
   <a href="/images/Colorado_9.JPG"><img src="/images/Colorado_9.JPG" alt="Colorado"></a>
   <a href="/images/Colorado_10.jpg"><img src="/images/Colorado_10.jpg" alt="Colorado"></a>
 </div>
-<div class="shorts-row">
-  <div class="short-video">
-    <iframe src="https://www.youtube.com/embed/x3KTZTflIwg" allowfullscreen></iframe>
-  </div>
-  <div class="short-video">
-    <iframe src="https://www.youtube.com/embed/TbQXRcZdqk4" allowfullscreen></iframe>
-  </div>
-</div>
-</div>
 
 <div class="travel-section">
 <h2>New Mexico</h2>
